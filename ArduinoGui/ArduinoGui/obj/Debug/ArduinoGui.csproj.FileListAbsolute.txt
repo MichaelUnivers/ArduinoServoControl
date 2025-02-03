@@ -1,0 +1,13 @@
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\bin\Debug\ArduinoGui.exe.config
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\bin\Debug\ArduinoGui.exe
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\bin\Debug\ArduinoGui.pdb
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.csproj.AssemblyReference.cache
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.Form1.resources
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.Properties.Resources.resources
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.csproj.GenerateResource.cache
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.csproj.CoreCompileInputs.cache
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.exe
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.pdb
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\bin\Debug\KnobControl.dll
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\bin\Debug\KnobControl.pdb
+C:\Users\Kornik\source\repos\ArduinoGui\ArduinoGui\obj\Debug\ArduinoGui.csproj.Up2Date
